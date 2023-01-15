@@ -1,0 +1,8 @@
+.footer__titulo {
+    background: var(--branco);
+    padding: 1em;
+}
+
+.linha__footer {
+  margin: 0;
+}
