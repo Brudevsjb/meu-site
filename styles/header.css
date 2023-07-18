@@ -8,7 +8,7 @@
 }
 
 .cabecalho {
-    background-color: var(--branco);
+    background-color: rgb(10, 10, 10);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -63,6 +63,8 @@ text-transform: uppercase;
 
 .container__titulo {
     display: none;
+    color: var(--laranja);
+   
 }
 
 .opções {
